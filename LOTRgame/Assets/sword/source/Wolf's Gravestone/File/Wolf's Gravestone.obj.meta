@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: c66542f9bc99f17459f99aca949bda90
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0011Mat
+    second: {fileID: 2100000, guid: 0b5c7c3cea392464bbf840785bb31c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0021Mat
+    second: {fileID: 2100000, guid: 51efa8b13be53cc4e94909a5390dbe21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0031Mat
+    second: {fileID: 2100000, guid: 8b7f08ae9f01a3f47b85d8f50d26542d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0041Mat
+    second: {fileID: 2100000, guid: bd348f5d52d9bf84f983899fb8e6af15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0071Mat
+    second: {fileID: 2100000, guid: 95ad456babdac394cb99ddae997f3c35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0081Mat
+    second: {fileID: 2100000, guid: 2e68dfd016fd0124f8664c1b6e54cc2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0091Mat
+    second: {fileID: 2100000, guid: 45441450e3b3e7f45a70a9c5537829cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0101Mat
+    second: {fileID: 2100000, guid: f4dbe094682a1fa48b057b180cb5ea51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0111Mat
+    second: {fileID: 2100000, guid: 36c6f074e46f23b409b084c84fd5a452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0131Mat
+    second: {fileID: 2100000, guid: 7a1c08121194ad54d85d4943b057bf61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0141Mat
+    second: {fileID: 2100000, guid: 7c070c22f97c38548b31bb27c457ee4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0151Mat
+    second: {fileID: 2100000, guid: 8c5f0a1363aaffa439097a6ddd7e78c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0161Mat
+    second: {fileID: 2100000, guid: bac7793f21c9d8f4d8bde7447feabe1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0171Mat
+    second: {fileID: 2100000, guid: bcb42c02b4d7ff340a0c8476f0e86fba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0181Mat
+    second: {fileID: 2100000, guid: fb3eb7aa5f7755242a21d2f42f9bae11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube0191Mat
+    second: {fileID: 2100000, guid: a5366ae1e13660c48b06f08b5184b4e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecube1Mat
+    second: {fileID: 2100000, guid: 7a29e6f96e853e742ac32d412d683e14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecylinder0011Mat
+    second: {fileID: 2100000, guid: 9c545ec40a2672146938e4a9d6cc5218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonecylinder1Mat
+    second: {fileID: 2100000, guid: ce392c8cf27ab104d8fe3d16404b1724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesheswolfsGravestonesphere1Mat
+    second: {fileID: 2100000, guid: efe5c1753dbffbf4bb1402a2768f9881, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

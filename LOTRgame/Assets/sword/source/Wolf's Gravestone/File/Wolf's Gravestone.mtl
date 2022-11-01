@@ -1,0 +1,280 @@
+newmtl MesheswolfsGravestonesphere1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonesphere1_diff.png
+map_Kd MesheswolfsGravestonesphere1_diff.png
+map_d MesheswolfsGravestonesphere1_diff.png
+
+newmtl MesheswolfsGravestonecube0041Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0041_diff.png
+map_Kd MesheswolfsGravestonecube0041_diff.png
+map_d MesheswolfsGravestonecube0041_diff.png
+
+newmtl MesheswolfsGravestonecube0141Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0141_diff.png
+map_Kd MesheswolfsGravestonecube0141_diff.png
+map_d MesheswolfsGravestonecube0141_diff.png
+
+newmtl MesheswolfsGravestonecube0101Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0101_diff.png
+map_Kd MesheswolfsGravestonecube0101_diff.png
+map_d MesheswolfsGravestonecube0101_diff.png
+
+newmtl MesheswolfsGravestonecube0071Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0071_diff.png
+map_Kd MesheswolfsGravestonecube0071_diff.png
+map_d MesheswolfsGravestonecube0071_diff.png
+
+newmtl MesheswolfsGravestonecube0151Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0151_diff.png
+map_Kd MesheswolfsGravestonecube0151_diff.png
+map_d MesheswolfsGravestonecube0151_diff.png
+
+newmtl MesheswolfsGravestonecube0091Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0091_diff.png
+map_Kd MesheswolfsGravestonecube0091_diff.png
+map_d MesheswolfsGravestonecube0091_diff.png
+
+newmtl MesheswolfsGravestonecube0161Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0161_diff.png
+map_Kd MesheswolfsGravestonecube0161_diff.png
+map_d MesheswolfsGravestonecube0161_diff.png
+
+newmtl MesheswolfsGravestonecube0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0021_diff.png
+map_Kd MesheswolfsGravestonecube0021_diff.png
+map_d MesheswolfsGravestonecube0021_diff.png
+
+newmtl MesheswolfsGravestonecube0031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0031_diff.png
+map_Kd MesheswolfsGravestonecube0031_diff.png
+map_d MesheswolfsGravestonecube0031_diff.png
+
+newmtl MesheswolfsGravestonecube0131Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0131_diff.png
+map_Kd MesheswolfsGravestonecube0131_diff.png
+map_d MesheswolfsGravestonecube0131_diff.png
+
+newmtl MesheswolfsGravestonecube0181Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0181_diff.png
+map_Kd MesheswolfsGravestonecube0181_diff.png
+map_d MesheswolfsGravestonecube0181_diff.png
+
+newmtl MesheswolfsGravestonecube0191Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0191_diff.png
+map_Kd MesheswolfsGravestonecube0191_diff.png
+map_d MesheswolfsGravestonecube0191_diff.png
+
+newmtl MesheswolfsGravestonecylinder0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecylinder0011_diff.png
+map_Kd MesheswolfsGravestonecylinder0011_diff.png
+map_d MesheswolfsGravestonecylinder0011_diff.png
+
+newmtl MesheswolfsGravestonecylinder1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecylinder1_diff.png
+map_Kd MesheswolfsGravestonecylinder1_diff.png
+map_d MesheswolfsGravestonecylinder1_diff.png
+
+newmtl MesheswolfsGravestonecube0081Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0081_diff.png
+map_Kd MesheswolfsGravestonecube0081_diff.png
+map_d MesheswolfsGravestonecube0081_diff.png
+
+newmtl MesheswolfsGravestonecube0111Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0111_diff.png
+map_Kd MesheswolfsGravestonecube0111_diff.png
+map_d MesheswolfsGravestonecube0111_diff.png
+
+newmtl MesheswolfsGravestonecube0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0011_diff.png
+map_Kd MesheswolfsGravestonecube0011_diff.png
+map_d MesheswolfsGravestonecube0011_diff.png
+
+newmtl MesheswolfsGravestonecube1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube1_diff.png
+map_Kd MesheswolfsGravestonecube1_diff.png
+map_d MesheswolfsGravestonecube1_diff.png
+
+newmtl MesheswolfsGravestonecube0171Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka MesheswolfsGravestonecube0171_diff.png
+map_Kd MesheswolfsGravestonecube0171_diff.png
+map_d MesheswolfsGravestonecube0171_diff.png
+
